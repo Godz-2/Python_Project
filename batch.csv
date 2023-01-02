@@ -1,0 +1,4 @@
+batch_id,batch_name,department_name,list_of_courses,list of students
+ECE 22,ECE 2022-26,ECE,B001,ECE2203
+CSE22,CSE 2022-26,CSE,A012,CSE2102
+EEE22,EEE 2022-26,EEE,C002,EEE2201
